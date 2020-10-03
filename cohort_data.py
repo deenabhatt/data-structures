@@ -214,4 +214,4 @@ if __name__ == '__main__':
                               ))
     doctest.master.summarize(1)
     if result.failed == 0:
-        print('ALL TESTS PASSED')
+        print('ALL TESTS PASSED!!')
